@@ -69,7 +69,71 @@
       "imagen": "assets/imagen10.jpg",
       "precio": "$9.500",
       "categoria":  ["Comederos y bebederos","Perro"]
+    },
+    {
+      "id": 11,
+      "titulo": "Plato small violeta",
+      "imagen": "assets/imagen11.jpg",
+      "precio": "$2.500",
+      "categoria": ["Comederos y bebederos","Gato","Perro"]
+    },
+    {
+      "id": 12,
+      "titulo": "Plato madera",
+      "imagen": "assets/imagen12.jpg",
+      "precio": "$3.500",
+      "categoria": ["Comederos y bebederos","Gato","Perro"]
+    },
+    {
+      "id": 13,
+      "titulo": "Platos medianos rosa",
+      "imagen": "assets/imagen13.jpg",
+      "precio": "$3.000",
+      "categoria": ["Comederos y bebederos","Perro"]
+    },
+    {
+      "id": 14,
+      "titulo": "Manta",
+      "imagen": "assets/imagen14.jpg",
+      "precio": "$14.500",
+      "categoria": ["Camas e Indumentaria","Gato","Perro"]
+    },
+    {
+      "id": 15,
+      "titulo": "Cucha Antidesgarro",
+      "imagen": "assets/imagen15.jpg",
+      "precio": "$12.500",
+      "categoria": ["Camas e Indumentaria","Gato","Perro"]
+    },
+    {
+      "id": 16,
+      "titulo": "Alicate",
+      "imagen": "assets/imagen16.jpg",
+      "precio": "$4.000",
+      "categoria": ["Higiene y Belleza","Gato","Perro"]
+    },
+    {
+      "id": 17,
+      "titulo": "Transportadora",
+      "imagen": "assets/imagen17.jpg",
+      "precio": "$59.500",
+      "categoria":["Paseo y Viaje","Gato","Perro"]
+    },
+    {
+      "id": 18,
+      "titulo": "Palita rosa",
+      "imagen": "assets/imagen18.jpg",
+      "precio": "$4.500",
+      "categoria":["Higiene y Belleza","Gato"]
+    },
+    {
+      "id": 19,
+      "titulo": "Palita verde",
+      "imagen": "assets/imagen19.jpg",
+      "precio": "$4.500",
+      "categoria":["Higiene y Belleza","Gato"]
     }
+
     
   ]
   
