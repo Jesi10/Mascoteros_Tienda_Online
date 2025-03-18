@@ -132,6 +132,78 @@
       "imagen": "assets/imagen19.jpg",
       "precio": "$4.500",
       "categoria":["Higiene y Belleza","Gato"]
+    },
+    {
+      "id": 20,
+      "titulo": "Hueso mordillo",
+      "imagen": "assets/imagen20.jpg",
+      "precio": "$5.500",
+      "categoria":["Juguetes","Perro"]
+    },
+    {
+      "id": 21,
+      "titulo": "Varita con plumas",
+      "imagen": "assets/imagen21.jpg",
+      "precio": "$2.500",
+      "categoria":["Juguetes","Gato"]
+    },
+    {
+      "id": 22,
+      "titulo": "Ratita",
+      "imagen": "assets/imagen22.jpg",
+      "precio": "$3.000",
+      "categoria":["Juguetes","Gato"]
+    },
+    
+    {
+      "id": 23,
+      "titulo": "Plato small",
+      "imagen": "assets/imagen23.jpg",
+      "precio": "$1.500",
+      "categoria":["Comederos y bebederos","Gato","Perro"]
+    },
+    {
+      "id": 24,
+      "titulo": "Smart feeder blanco",
+      "imagen": "assets/imagen24.jpg",
+      "precio": "$148.500",
+      "categoria":["Comederos y bebederos","Gato","Perro"]
+    },
+    {
+      "id": 25,
+      "titulo": "Smart feeder azul",
+      "imagen": "assets/imagen25.jpg",
+      "precio": "$200.000",
+      "categoria":["Comederos y bebederos","Gato","Perro"]
+    },
+
+    {
+      "id": 26,
+      "titulo": "Plato Inoxidable grande",
+      "imagen": "assets/imagen26.jpg",
+      "precio": "$14.500",
+      "categoria":["Comederos y bebederos","Perro"]
+    },
+    {
+      "id": 27,
+      "titulo": "Plato mediano naranja",
+      "imagen": "assets/imagen27.jpg",
+      "precio": "$8.500",
+      "categoria":["Comederos y bebederos","Gato","Perro"]
+    },
+    {
+      "id": 28,
+      "titulo": "Porta-bolsitas",
+      "imagen": "assets/imagen28.jpg",
+      "precio": "$8.500",
+      "categoria":["Higiene y Belleza","Perro"]
+    },
+    {
+      "id": 29,
+      "titulo": "Porta-bolsitas celeste",
+      "imagen": "assets/imagen29.jpg",
+      "precio": "$8.500",
+      "categoria":["Higiene y Belleza","Perro"]
     }
 
     
