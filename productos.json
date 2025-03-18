@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "titulo": "Combo Rosa",
+      "imagen": "assets/imagen1.jpg",
+      "precio": "$15.000",
+      "categoria": ["Comederos y bebederos","Collares y correas","Juguetes","Perro"]
+    },
+    {
+      "id": 2,
+      "titulo": "Cepillo",
+      "imagen": "assets/imagen2.jpg",
+      "precio": "$8.500",
+      "categoria": ["Higiene y Belleza","Gato","Perro"]
+    },
+    {
+      "id": 3,
+      "titulo": "Cepillo mango",
+      "imagen": "assets/imagen3.jpg",
+      "precio": "$8.500",
+      "categoria": ["Higiene y Belleza","Gato","Perro"]
+    },
+    {
+      "id": 4,
+      "titulo": "Escalador",
+      "imagen": "assets/imagen4.jpg",
+      "precio": "$8.500",
+      "categoria": ["Juguetes","Gato"]
+    },
+    {
+      "id": 5,
+      "titulo": "Manopla-cepillo",
+      "imagen": "assets/imagen5.jpg",
+      "precio": "$8.500",
+      "categoria": ["Higiene y Belleza","Gato","Perro"]
+
+    },
+    {
+      "id": 6,
+      "titulo": "Pelotita",
+      "imagen": "assets/imagen6.jpg",
+      "precio": "$2.500",
+      "categoria": ["Juguetes","Gato","Perro"]
+    },
+    {
+      "id": 7,
+      "titulo": "Patito de goma",
+      "imagen": "assets/imagen7.jpg",
+      "precio": "$13.500",
+      "categoria": ["Higiene y Belleza","Juguetes","Gato","Perro"]
+    },
+    {
+      "id": 8,
+      "titulo": "Chapita ID",
+      "imagen": "assets/imagen8.jpg",
+      "precio": "$3.700",
+      "categoria": ["Paseo y Viaje","Perro"]
+    },
+    {
+      "id": 9,
+      "titulo": "Plato doble mediano rosa",
+      "imagen": "assets/imagen9.jpg",
+      "precio": "$6.500",
+      "categoria":  ["Comederos y bebederos","Perro"]
+    },
+    {
+      "id": 10,
+      "titulo": "Plato doble mediano",
+      "imagen": "assets/imagen10.jpg",
+      "precio": "$9.500",
+      "categoria":  ["Comederos y bebederos","Perro"]
+    }
+    
+  ]
+  
