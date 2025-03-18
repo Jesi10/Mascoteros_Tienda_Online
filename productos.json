@@ -204,6 +204,77 @@
       "imagen": "assets/imagen29.jpg",
       "precio": "$8.500",
       "categoria":["Higiene y Belleza","Perro"]
+    },
+
+    {
+      "id": 30,
+      "titulo": "Porta-bolsitas rosa",
+      "imagen": "assets/imagen30.jpg",
+      "precio": "$8.500",
+      "categoria":["Higiene y Belleza","Perro"]
+    },
+    {
+      "id": 31,
+      "titulo": "Bolso trasportador",
+      "imagen": "assets/imagen31.jpg",
+      "precio": "$38.500",
+      "categoria":["Paseo y Viaje","Gato","Perro"]
+    },
+    {
+      "id": 32,
+      "titulo": "Collar gato",
+      "imagen": "assets/imagen32.jpg",
+      "precio": "$8.500",
+      "categoria":["Collares y correas","Gato"]
+    },
+    {
+      "id": 33,
+      "titulo": "Collar perro",
+      "imagen": "assets/imagen33.jpg",
+      "precio": "$8.500",
+      "categoria":["Collares y correas","Perro"]
+    },
+    {
+      "id": 34,
+      "titulo": "Correa",
+      "imagen": "assets/imagen34.jpg",
+      "precio": "$5.000",
+      "categoria":["Collares y correas","Perro"]
+    },
+    {
+      "id": 35,
+      "titulo": "Campera Rockstar",
+      "imagen": "assets/imagen35.jpg",
+      "precio": "$8.000",
+      "categoria": ["Camas e Indumentaria","Perro"]
+    },
+    {
+      "id": 36,
+      "titulo": "Campera negra",
+      "imagen": "assets/imagen36.jpg",
+      "precio": "$6.500",
+      "categoria": ["Camas e Indumentaria","Perro"]
+    },
+    {
+      "id": 37,
+      "titulo": "Pilotín",
+      "imagen": "assets/imagen37.jpg",
+      "precio": "$7.000",
+      "categoria": ["Camas e Indumentaria","Perro"]
+    },
+    {
+      "id": 38,
+      "titulo": "Buzo Rojo",
+      "imagen": "assets/imagen38.jpg",
+      "precio": "$7.000",
+      "categoria": ["Camas e Indumentaria","Perro"]
+    },
+    {
+      "id": 39,
+      "titulo": "Buzo con capucha",
+      "imagen": "assets/imagen39.jpg",
+      "precio": "$15.000",
+      "categoria": ["Camas e Indumentaria","Perro"]
     }
 
     
