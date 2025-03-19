@@ -39,3 +39,7 @@ El proyecto consta de los siguientes archivos y carpetas:
 - **js**: Contiene los archivos `main.js` y `validar.js`.
 - **assets**: Contiene las imágenes de los productos, el logo y demás recursos visuales.
 - **css**: Contiene el archivo `styles.css` con los estilos personalizados para el diseño del sitio.
+
+Gracias por visitar mi proyecto 😊
+
+Jésica Llanos
