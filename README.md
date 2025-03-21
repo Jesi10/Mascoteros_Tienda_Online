@@ -6,6 +6,9 @@ El sitio permite a los usuarios simular el proceso de compra:buscar productos, a
 
 Además,en la sección Contacto, el proyecto incorpora un **formulario de contacto** que permite a los usuarios realizar consultas. EmailJS se conecta con el formulario usando su API y facilita el envío del mensaje. 
 
+## 🚀 Demo  
+Podés ver el proyecto en vivo aquí: [Mascoteros Tienda Online](https://jesi10.github.io/Mascoteros_Tienda_Online/)
+
 ## Características
 
 - **Petición asíncrona para obtener productos**: Los datos de los productos para mascotas se cargan de manera asíncrona desde un archivo JSON utilizando `fetch` con `async` y `await`, lo que permite una carga dinámica y eficiente de los productos y filtros en la página.
